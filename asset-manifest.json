@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/relay-global-id/static/css/main.3a86539f.css",
+    "main.js": "/relay-global-id/static/js/main.07766246.js",
+    "static/js/787.30c6c7e1.chunk.js": "/relay-global-id/static/js/787.30c6c7e1.chunk.js",
+    "index.html": "/relay-global-id/index.html",
+    "main.3a86539f.css.map": "/relay-global-id/static/css/main.3a86539f.css.map",
+    "main.07766246.js.map": "/relay-global-id/static/js/main.07766246.js.map",
+    "787.30c6c7e1.chunk.js.map": "/relay-global-id/static/js/787.30c6c7e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a86539f.css",
+    "static/js/main.07766246.js"
+  ]
+}
